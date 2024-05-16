@@ -1,4 +1,5 @@
-
+//     js - variable - dynmically type
+//strings= sequence of character
 var name="kavita";
 var age=24
 var height=5
